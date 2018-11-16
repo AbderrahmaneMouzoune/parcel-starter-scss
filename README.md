@@ -4,6 +4,6 @@
 ```
 git clone https://github.com/davidvenin/parcel-starter-scss.git
 cd parcel-starter-scss
-npm install sass or yarn add sass
+npm install or yarn
 parcel index.html
 ```
